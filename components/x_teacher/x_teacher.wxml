@@ -1,0 +1,5 @@
+
+<view class="TeacherItem">
+  <image src="/assert/img/header.jpg"/>
+  <text>1223</text>
+</view>

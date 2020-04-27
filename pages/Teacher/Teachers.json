@@ -1,3 +1,5 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "teacherModel" :"/components/x_teacher/x_teacher"
+  }
 }

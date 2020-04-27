@@ -1,6 +1,10 @@
-<!--pages/Teacher/Teachers.wxml-->
-<text>老师</text>
-<view class="TeacherItem">
-  <image src="/assert/img/header.jpg"/>
-  <text>1223</text>
+<view class="teacherContainer"> 
+  <teacherModel/>
+  <teacherModel/>
+  <teacherModel/>
+  <teacherModel/>
+  <teacherModel/>
+  <teacherModel/>
+  <teacherModel/>
+  <teacherModel/>
 </view>

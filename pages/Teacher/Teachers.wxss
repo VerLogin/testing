@@ -1,10 +1,10 @@
-.TeacherItem{
-  height: 130px;
-  width: 100px;
-  border-radius: 10%;
-  background-color: blueviolet;
+.teacherContainer{
+  display: flex;
+  justify-content: space-evenly;
+  
+  /* 是否换行 */
+  flex-wrap: wrap;
 }
-.TeacherItem image{
-  height: 100px;
-  width: 100px;
+.teacherContainer teacherModel{
+  margin: 10px 0 10px 0;
 }
