@@ -1,0 +1,7 @@
+{
+  "pages": [
+    "pages/Teacher/Teachers",
+    "pages/Students/Students"
+  ],
+  "sitemapLocation": "sitemap.json"
+}

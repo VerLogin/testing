@@ -1,0 +1,10 @@
+.TeacherItem{
+  height: 130px;
+  width: 100px;
+  border-radius: 10%;
+  background-color: blueviolet;
+}
+.TeacherItem image{
+  height: 100px;
+  width: 100px;
+}
